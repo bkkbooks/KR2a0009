@@ -84,7 +84,6 @@ markers:
   - {type: 'tls:seg', offset: 48, content: '', id: KR2a0009_ZHSJ_119-d119p2s4}
   - {type: punctuation, offset: 50, content: ．, id: KR2a0009_ZHSJ_119-bkkpn4}
   - {type: 'tls:seg', offset: 50, content: '', id: KR2a0009_ZHSJ_119-d119p2s5}
-  - {type: substitution, offset: 52, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: variant, offset: 56, length: 1, content: 來, WYG: 征西大將軍耿秉行度遼將軍劉攽曰案秉傳不為大將軍又真為度遼此多一大字又行當作為也時臯林温禺犢王復將衆還居涿邪山南單于聞知遣輕騎與縁邊}
   - {type: page-break, offset: 56, content: '', id: KR2a0009_WYG_119-13a, image: WYG0253/WYG0253-0707c.png}
   - {type: variant, offset: 56, length: 1, content: 來, krp: 征西大將軍耿秉行度遼將軍劉攽曰案秉傳不為大將軍又真為度遼此多一大字又行當作為也時臯林温禺犢王復將衆還居涿邪山南單于聞知遣輕騎與縁邊}
@@ -310,7 +309,6 @@ markers:
   - {type: punctuation, offset: 259, content: ．, id: KR2a0009_ZHSJ_119-bkkpn95}
   - {type: punctuation, offset: 259, content: 〔二七〕, id: KR2a0009_ZHSJ_119-bkkpn96}
   - {type: 'tls:seg', offset: 259, content: '', id: KR2a0009_ZHSJ_119-d119p9s7}
-  - {type: substitution, offset: 261, original: 雝, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2313}}
   - {type: punctuation, offset: 263, content: ，, id: KR2a0009_ZHSJ_119-bkkpn97}
   - {type: xml-element, offset: 263, content: '', id: KR2a0009_ZHSJ_119-bkkxmlele18}
   - {type: xml-element, offset: 263, content: '', id: KR2a0009_ZHSJ_119-bkkxmlele19}
@@ -383,7 +381,6 @@ markers:
   - {type: punctuation, offset: 323, content: ), id: KR2a0009_ZHSJ_119-bkkpn137}
   - {type: punctuation, offset: 323, content: 〔四二〕, id: KR2a0009_ZHSJ_119-bkkpn138}
   - {type: 'tls:seg', offset: 323, content: '', id: KR2a0009_ZHSJ_119-d119p11s12}
-  - {type: substitution, offset: 324, original: 鄔, replacement: 塢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3780}}
   - {type: punctuation, offset: 326, content: ．, id: KR2a0009_ZHSJ_119-bkkpn139}
   - {type: punctuation, offset: 326, content: 〔四三〕, id: KR2a0009_ZHSJ_119-bkkpn140}
   - {type: 'tls:seg', offset: 326, content: '', id: KR2a0009_ZHSJ_119-d119p11s13}
@@ -403,7 +400,6 @@ markers:
   - {type: punctuation, offset: 343, content: 〔四七〕, id: KR2a0009_ZHSJ_119-bkkpn150}
   - {type: 'tls:seg', offset: 343, content: '', id: KR2a0009_ZHSJ_119-d119p11s18}
   - {type: line-break, offset: 343, content: '', id: ZHSJ__dup24018}
-  - {type: substitution, offset: 345, original: 埳, replacement: 坎, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0290}}
   - {type: punctuation, offset: 347, content: ．, id: KR2a0009_ZHSJ_119-bkkpn151}
   - {type: punctuation, offset: 347, content: 〔四八〕, id: KR2a0009_ZHSJ_119-bkkpn152}
   - {type: 'tls:seg', offset: 347, content: '', id: KR2a0009_ZHSJ_119-d119p11s19}
@@ -412,7 +408,6 @@ markers:
   - {type: punctuation, offset: 353, content: ．, id: KR2a0009_ZHSJ_119-bkkpn154}
   - {type: punctuation, offset: 353, content: 〔四九〕, id: KR2a0009_ZHSJ_119-bkkpn155}
   - {type: 'tls:seg', offset: 353, content: '', id: KR2a0009_ZHSJ_119-d119p11s21}
-  - {type: substitution, offset: 355, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 357, content: ．, id: KR2a0009_ZHSJ_119-bkkpn156}
   - {type: punctuation, offset: 357, content: 〔五０〕, id: KR2a0009_ZHSJ_119-bkkpn157}
   - {type: 'tls:seg', offset: 357, content: '', id: KR2a0009_ZHSJ_119-d119p11s22}
@@ -539,13 +534,11 @@ markers:
   - {type: 'tls:seg', offset: 468, content: '', id: KR2a0009_ZHSJ_119-d119p12s14}
   - {type: punctuation, offset: 473, content: ，, id: KR2a0009_ZHSJ_119-bkkpn236}
   - {type: 'tls:seg', offset: 473, content: '', id: KR2a0009_ZHSJ_119-d119p12s15}
-  - {type: substitution, offset: 475, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 476, content: ．, id: KR2a0009_ZHSJ_119-bkkpn237}
   - {type: punctuation, offset: 476, content: 〔一一〕, id: KR2a0009_ZHSJ_119-bkkpn238}
   - {type: 'tls:seg', offset: 476, content: '', id: KR2a0009_ZHSJ_119-d119p12s16}
   - {type: punctuation, offset: 476, content: ▲, id: KR2a0009_ZHSJ_119-bkkpn239}
   - {type: indent, offset: 477, content: 　, id: KR2a0009_ZHSJ_119-bkkind9}
-  - {type: substitution, offset: 478, original: 睾, replacement: 皋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4166}}
   - {type: punctuation, offset: 479, content: ), id: KR2a0009_ZHSJ_119-bkkpn240}
   - {type: punctuation, offset: 482, content: ，, id: KR2a0009_ZHSJ_119-bkkpn241}
   - {type: 'tls:seg', offset: 482, content: '', id: KR2a0009_ZHSJ_119-d119p12s17}
@@ -574,7 +567,6 @@ markers:
   - {type: punctuation, offset: 508, content: ．, id: KR2a0009_ZHSJ_119-bkkpn256}
   - {type: 'tls:seg', offset: 508, content: '', id: KR2a0009_ZHSJ_119-d119p12s24}
   - {type: punctuation, offset: 508, content: ▲, id: KR2a0009_ZHSJ_119-bkkpn257}
-  - {type: substitution, offset: 508, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 510, content: ), id: KR2a0009_ZHSJ_119-bkkpn258}
   - {type: line-break, offset: 511, content: '', id: ZHSJ__dup24026}
   - {type: punctuation, offset: 513, content: ，, id: KR2a0009_ZHSJ_119-bkkpn259}
@@ -588,7 +580,6 @@ markers:
   - {type: punctuation, offset: 527, content: ．, id: KR2a0009_ZHSJ_119-bkkpn264}
   - {type: punctuation, offset: 527, content: 〔一七〕, id: KR2a0009_ZHSJ_119-bkkpn265}
   - {type: 'tls:seg', offset: 527, content: '', id: KR2a0009_ZHSJ_119-d119p12s28}
-  - {type: substitution, offset: 529, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 532, content: ．, id: KR2a0009_ZHSJ_119-bkkpn266}
   - {type: punctuation, offset: 532, content: 〔一八〕, id: KR2a0009_ZHSJ_119-bkkpn267}
   - {type: 'tls:seg', offset: 532, content: '', id: KR2a0009_ZHSJ_119-d119p12s29}
@@ -603,7 +594,6 @@ markers:
   - {type: punctuation, offset: 541, content: ．, id: KR2a0009_ZHSJ_119-bkkpn273}
   - {type: punctuation, offset: 541, content: 〔二０〕, id: KR2a0009_ZHSJ_119-bkkpn274}
   - {type: 'tls:seg', offset: 541, content: '', id: KR2a0009_ZHSJ_119-d119p12s32}
-  - {type: substitution, offset: 542, original: 汎, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0394}}
   - {type: punctuation, offset: 544, content: ．, id: KR2a0009_ZHSJ_119-bkkpn275}
   - {type: punctuation, offset: 544, content: 〔二一〕, id: KR2a0009_ZHSJ_119-bkkpn276}
   - {type: 'tls:seg', offset: 544, content: '', id: KR2a0009_ZHSJ_119-d119p12s33}
@@ -1336,4 +1326,4 @@ markers:
   - {type: page-break, offset: 1129, content: '', id: KR2a0009_WYG_119-35b, image: WYG0253/WYG0253-0718d.png}
   - {type: variant, offset: 1129, length: 0, content: '', krp: 更立北虜反其故庭永元三年將軍竇憲上書請立於除鞬為北單于朝廷從之四年即授璽綬方欲輔歸北庭㑹竇憲被誅五年於除鞬自畔還北帝遣將兵長史王輔誘誅之並恩兩䕶以私已福棄蔑天公言竇憲斬日逐刋石紀功即宜滅其北庭以資南部重存􅏷緒滋生孽烖南北俱存即是並恩兩䕶以私已福乃招其禍斯則棄蔑天公之事也天公謂天子也前書云老秃翁何為首鼠兩端禿翁即天翁也髙祖云幾敗乃公事乃公即汝公也惇史直筆時復存其質言也坐樹大鯁永言前載何恨憤之深乎由竇憲請立北庭遂使匈奴滋蔓即是坐樹大鯁永言前事深可恨哉載事也自後經綸失方畔服不一其為疢毒胡可單言單盡也單與殫同也降及後世翫為常俗終於吞噬神鄉丘墟帝宅嗚呼千里之差興自毫端失得之原百世不磨矣既勒燕然之後若復南虜於漠北引侍子於京師混并匃奴之區使得專為一部則荒服無忿爭之跡邊服息征伐之勤此之不行遂為巨蠧自單于比入居西河美稷之後種類繁昌難以驅逼魏武雖分其衆為五部然大率皆居晉陽暨乎左賢王豹之子劉元海假稱天號縱盗中原吞噬神鄉丘墟帝宅愍懐二帝沈沒虜庭差之毫端一至於此百代無滅誠可痛心也贊曰匈奴既分謂分為南北庭也羽書稀聞檄書有急即挿鳥羽其上也野心難悔終亦紛紜紛紜之事具如上解劉攽曰章懐注書時分與諸臣此卷不知誰值之最為淺陋不與前同亦疑其將終篇故特草草耳後之讀者將以為傳寫之誤聊記之云後漢書卷一百十九考證南匈奴傳以征西大將軍耿秉行度遼將軍事劉攽曰按秉傳真為度遼行當作為何焯曰下文云鄧遵始真為度遼則耿秉耿䕫傳言拜者皆行度遼事行不當作為單于每龍㑹議事何焯曰龍下當有庭字棄蔑天公注天公謂天子也何焯曰李云天公非謂天子猶大公耳困學紀聞云劉貢父東漢刋誤謂列傳第七十九注最淺陋今觀注引前書謂秃翁即天公其謬甚矣後漢書卷一百十九考證}
   back: []
-hash: sha256:df60a1513818d27ea50210ae044b8539a8e42e19dcac76464f97db2cb2d64887
+hash: sha256:37b4116afc67e34a1e06d020f574d525a536306649f7e008ffa442b255ee660f

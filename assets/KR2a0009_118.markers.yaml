@@ -411,7 +411,6 @@ markers:
   - {type: 'tls:seg', offset: 495, content: '', id: KR2a0009_ZHSJ_118-d118p9s5}
   - {type: punctuation, offset: 499, content: ，, id: KR2a0009_ZHSJ_118-bkkpn119}
   - {type: 'tls:seg', offset: 499, content: '', id: KR2a0009_ZHSJ_118-d118p9s6}
-  - {type: substitution, offset: 501, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: line-break, offset: 503, content: '', id: ZHSJ__dup23887}
   - {type: punctuation, offset: 507, content: ，, id: KR2a0009_ZHSJ_118-bkkpn120}
   - {type: 'tls:seg', offset: 507, content: '', id: KR2a0009_ZHSJ_118-d118p9s7}
@@ -442,7 +441,6 @@ markers:
   - {type: punctuation, offset: 568, content: 「, id: KR2a0009_ZHSJ_118-bkkpn132}
   - {type: punctuation, offset: 574, content: ，, id: KR2a0009_ZHSJ_118-bkkpn133}
   - {type: 'tls:seg', offset: 574, content: '', id: KR2a0009_ZHSJ_118-d118p10s10}
-  - {type: substitution, offset: 576, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 578, content: ，, id: KR2a0009_ZHSJ_118-bkkpn134}
   - {type: 'tls:seg', offset: 578, content: '', id: KR2a0009_ZHSJ_118-d118p10s11}
   - {type: line-break, offset: 581, content: '', id: ZHSJ__dup23890}
@@ -720,7 +718,6 @@ markers:
   - {type: 'tls:seg', offset: 976, content: '', id: KR2a0009_ZHSJ_118-d118p20s3}
   - {type: punctuation, offset: 980, content: ，, id: KR2a0009_ZHSJ_118-bkkpn231}
   - {type: 'tls:seg', offset: 980, content: '', id: KR2a0009_ZHSJ_118-d118p20s4}
-  - {type: substitution, offset: 980, original: 佗, replacement: 他, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3913}}
   - {type: punctuation, offset: 984, content: ．, id: KR2a0009_ZHSJ_118-bkkpn232}
   - {type: 'tls:seg', offset: 984, content: '', id: KR2a0009_ZHSJ_118-d118p20s5}
   - {type: punctuation, offset: 989, content: ．, id: KR2a0009_ZHSJ_118-bkkpn233}
@@ -902,7 +899,6 @@ markers:
   - {type: 'tls:seg', offset: 1150, content: '', id: KR2a0009_ZHSJ_118-d118p23s16}
   - {type: punctuation, offset: 1154, content: ，, id: KR2a0009_ZHSJ_118-bkkpn273}
   - {type: 'tls:seg', offset: 1154, content: '', id: KR2a0009_ZHSJ_118-d118p23s17}
-  - {type: substitution, offset: 1162, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: variant, offset: 1164, length: 19, content: 溫禺犢王烏居戰十二年秋七月辛亥朔日有蝕, WYG: 漢軍追擊斬}
   - {type: variant, offset: 1164, length: 19, content: 溫禺犢王烏居戰十二年秋七月辛亥朔日有蝕, krp: 漢軍追擊斬}
   - {type: punctuation, offset: 1171, content: ．, id: KR2a0009_ZHSJ_118-bkkpn274}
@@ -1144,7 +1140,6 @@ markers:
   - {type: 'tls:seg', offset: 1603, content: '', id: KR2a0009_ZHSJ_118-d118p34s3}
   - {type: punctuation, offset: 1605, content: ，, id: KR2a0009_ZHSJ_118-bkkpn378}
   - {type: 'tls:seg', offset: 1605, content: '', id: KR2a0009_ZHSJ_118-d118p34s4}
-  - {type: substitution, offset: 1607, original: 昬, replacement: 昏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0564}}
   - {type: punctuation, offset: 1609, content: ．, id: KR2a0009_ZHSJ_118-bkkpn379}
   - {type: punctuation, offset: 1609, content: 〔一〕, id: KR2a0009_ZHSJ_118-bkkpn380}
   - {type: 'tls:seg', offset: 1609, content: '', id: KR2a0009_ZHSJ_118-d118p34s5}
@@ -1974,4 +1969,4 @@ markers:
   - {type: xml-element, offset: 2903, content: '', id: KR2a0009_ZHSJ_118-d118n1}
   - {type: xml-element, offset: 2903, content: '', id: KR2a0009_ZHSJ_118-d118n1_end}
   back: []
-hash: sha256:18648d719987231be5ee1ddd199c4d27f9d5c924e2b11b05c8ac3895b65647a2
+hash: sha256:a71f71aecbd7f6c2a48b9550c07b34a3445734316f9e0d1f4e1b0fd34d3d3433

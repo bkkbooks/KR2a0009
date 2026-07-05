@@ -642,7 +642,6 @@ markers:
   - {type: variant, offset: 876, length: 9, content: 即位十八年好神僊事, krp: 時為小黄門忠以與誅梁冀功封都鄉侯與音預}
   - {type: punctuation, offset: 881, content: ，, id: KR2a0009_ZHSJ_108-bkkpn204}
   - {type: 'tls:seg', offset: 881, content: '', id: KR2a0009_ZHSJ_108-d108p15s2}
-  - {type: substitution, offset: 883, original: 僊, replacement: 仙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0096}}
   - {type: punctuation, offset: 885, content: ．, id: KR2a0009_ZHSJ_108-bkkpn205}
   - {type: 'tls:seg', offset: 885, content: '', id: KR2a0009_ZHSJ_108-d108p15s3}
   - {type: punctuation, offset: 889, content: ，, id: KR2a0009_ZHSJ_108-bkkpn206}
@@ -692,7 +691,6 @@ markers:
   - {type: variant, offset: 914, length: 16, content: 壇飾淳金釦器設華蓋之坐用郊天樂也, krp: 關中侯何焯校本中改内後漢書卷一百八考證}
   - {type: punctuation, offset: 915, content: ，, id: KR2a0009_ZHSJ_108-bkkpn210}
   - {type: 'tls:seg', offset: 915, content: '', id: KR2a0009_ZHSJ_108-d108p15s8}
-  - {type: substitution, offset: 918, original: 釦, replacement: 扣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0136}}
   - {type: punctuation, offset: 920, content: ，, id: KR2a0009_ZHSJ_108-bkkpn211}
   - {type: 'tls:seg', offset: 920, content: '', id: KR2a0009_ZHSJ_108-d108p15s9}
   - {type: punctuation, offset: 925, content: ，, id: KR2a0009_ZHSJ_108-bkkpn212}
@@ -702,4 +700,4 @@ markers:
   - {type: xml-element, offset: 930, content: '', id: KR2a0009_ZHSJ_108-d108n1}
   - {type: xml-element, offset: 930, content: '', id: KR2a0009_ZHSJ_108-d108n1_end}
   back: []
-hash: sha256:4f2f4696640b693af0f788664c6a8fcc528f56915b229d90664971b18de0869f
+hash: sha256:a20eeb57a2cc30a4c6167af12c97f98d3b4f2104194f9c4deaa1133d681c96b5

@@ -53,7 +53,6 @@ markers:
   - {type: 'tls:seg', offset: 67, content: '', id: KR2a0009_ZHSJ_033-d33p2s10}
   - {type: variant, offset: 68, length: 8, content: 匈奴擾亂北邊多罹, WYG: 曰錫穴左傳文十一年楚伐麋至于錫穴上庸本庸國房陵巴漢志曰建安十三年别屬新城郡有維山維水所出東入瀘巴郡秦置雒陽西三千七百里譙周巴記曰初平六年趙頴分巴為二郡欲得巴舊名故郡以墊江為治安漢以下為永寧郡建安六年劉璋分巴以永寧為巴東郡以墊江為巴西郡蜀都賦注云銅梁山在巴東干寳搜神記曰有澤水民謂神龍不可鳴鼓}
   - {type: variant, offset: 68, length: 8, content: 匈奴擾亂北邊多罹, krp: 曰錫穴左傳文十一年楚伐麋至于錫穴上庸本庸國房陵巴漢志曰建安十三年别屬新城郡有維山維水所出東入瀘巴郡秦置雒陽西三千七百里譙周巴記曰初平六年趙頴分巴為二郡欲得巴舊名故郡以墊江為治安漢以下為永寧郡建安六年劉璋分巴以永寧為巴東郡以墊江為巴西郡蜀都賦注云銅梁山在巴東干寳搜神記曰有澤水民謂神龍不可鳴鼓}
-  - {type: substitution, offset: 68, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 72, content: ，, id: KR2a0009_ZHSJ_033-bkkpn13}
   - {type: 'tls:seg', offset: 72, content: '', id: KR2a0009_ZHSJ_033-d33p2s11}
   - {type: variant, offset: 77, length: 5, content: 禍竟終完輯, WYG: 傍即使大雨蜀都賦曰潛龍蟠於沮澤應鳴鼓而興雨十四城户三十}
@@ -73,7 +72,6 @@ markers:
   - {type: variant, offset: 99, length: 2, content: 匈奴, WYG: 蜀臨江枳史記蘇代曰楚得枳而國亡華陽國志有明月峽廣徳嶼者是也涪陵出丹巴記曰靈帝分涪陵置永寧縣巴漢志曰涪陵巴郡之南鄙從枳南入折丹涪陵水與楚商於之地接漢時赤田軍常取其民墊江安漢平都巴記曰和帝分枳置充國永元二年分閬中置巴記曰初平四年復分為南充國縣宣漢巴漢記曰和帝分宕渠之東置漢昌永元中置巴記曰分宕渠之北而置之廣漢郡髙帝置雒陽西三千里十一城户十三萬九千八百六十五口五十萬九千四百三十八雒州刺史治新都華陽國志曰有金堂山水通巴漢緜竹地道記曰有紫巖山緜水之所出焉什邡涪巴漢志曰孱水出孱山梓潼地道記五婦山馳水出}
   - {type: page-break, offset: 99, content: '', id: KR2a0009_WYG_033-3a, image: WYG0252/WYG0252-0398c.png}
   - {type: variant, offset: 99, length: 2, content: 匈奴, krp: 蜀臨江枳史記蘇代曰楚得枳而國亡華陽國志有明月峽廣徳嶼者是也涪陵出丹巴記曰靈帝分涪陵置永寧縣巴漢志曰涪陵巴郡之南鄙從枳南入折丹涪陵水與楚商於之地接漢時赤田軍常取其民墊江安漢平都巴記曰和帝分枳置充國永元二年分閬中置巴記曰初平四年復分為南充國縣宣漢巴漢記曰和帝分宕渠之東置漢昌永元中置巴記曰分宕渠之北而置之廣漢郡髙帝置雒陽西三千里十一城户十三萬九千八百六十五口五十萬九千四百三十八雒州刺史治新都華陽國志曰有金堂山水通巴漢緜竹地道記曰有紫巖山緜水之所出焉什邡涪巴漢志曰孱水出孱山梓潼地道記五婦山馳水出}
-  - {type: substitution, offset: 99, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 101, content: ．, id: KR2a0009_ZHSJ_033-bkkpn18}
   - {type: 'tls:seg', offset: 101, content: '', id: KR2a0009_ZHSJ_033-d33p2s16}
   - {type: variant, offset: 102, length: 2, content: 武五, WYG: 安二十二}
@@ -211,7 +209,6 @@ markers:
   - {type: 'tls:seg', offset: 341, content: '', id: KR2a0009_ZHSJ_033-d33p10s2}
   - {type: punctuation, offset: 345, content: ．, id: KR2a0009_ZHSJ_033-bkkpn71}
   - {type: 'tls:seg', offset: 345, content: '', id: KR2a0009_ZHSJ_033-d33p10s3}
-  - {type: substitution, offset: 350, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 351, content: ，, id: KR2a0009_ZHSJ_033-bkkpn72}
   - {type: 'tls:seg', offset: 351, content: '', id: KR2a0009_ZHSJ_033-d33p10s4}
   - {type: punctuation, offset: 355, content: ，, id: KR2a0009_ZHSJ_033-bkkpn73}
@@ -262,7 +259,6 @@ markers:
   - {type: xml-element, offset: 427, content: '', id: KR2a0009_ZHSJ_033-bkkxmlele25}
   - {type: 'tls:seg', offset: 427, content: '', id: KR2a0009_ZHSJ_033-d33p13s1}
   - {type: line-break, offset: 427, content: '', id: ZHSJ__dup7814}
-  - {type: substitution, offset: 429, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0981}}
   - {type: punctuation, offset: 431, content: ？, id: KR2a0009_ZHSJ_033-bkkpn93}
   - {type: punctuation, offset: 431, content: 〔四〕, id: KR2a0009_ZHSJ_033-bkkpn94}
   - {type: 'tls:seg', offset: 431, content: '', id: KR2a0009_ZHSJ_033-d33p13s2}
@@ -356,7 +352,6 @@ markers:
   - {type: punctuation, offset: 572, content: 、, id: KR2a0009_ZHSJ_033-bkkpn129}
   - {type: punctuation, offset: 579, content: ，, id: KR2a0009_ZHSJ_033-bkkpn130}
   - {type: 'tls:seg', offset: 579, content: '', id: KR2a0009_ZHSJ_033-d33p18s3}
-  - {type: substitution, offset: 581, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: punctuation, offset: 583, content: ，, id: KR2a0009_ZHSJ_033-bkkpn131}
   - {type: 'tls:seg', offset: 583, content: '', id: KR2a0009_ZHSJ_033-d33p18s4}
   - {type: punctuation, offset: 587, content: ，, id: KR2a0009_ZHSJ_033-bkkpn132}
@@ -379,7 +374,6 @@ markers:
   - {type: 'tls:seg', offset: 610, content: '', id: KR2a0009_ZHSJ_033-d33p19s4}
   - {type: punctuation, offset: 615, content: ，, id: KR2a0009_ZHSJ_033-bkkpn140}
   - {type: 'tls:seg', offset: 615, content: '', id: KR2a0009_ZHSJ_033-d33p19s5}
-  - {type: substitution, offset: 618, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 620, content: ，, id: KR2a0009_ZHSJ_033-bkkpn141}
   - {type: 'tls:seg', offset: 620, content: '', id: KR2a0009_ZHSJ_033-d33p19s6}
   - {type: punctuation, offset: 625, content: ，, id: KR2a0009_ZHSJ_033-bkkpn142}
@@ -514,7 +508,6 @@ markers:
   - {type: 'tls:seg', offset: 843, content: '', id: KR2a0009_ZHSJ_033-d33p27s6}
   - {type: punctuation, offset: 849, content: ，, id: KR2a0009_ZHSJ_033-bkkpn195}
   - {type: 'tls:seg', offset: 849, content: '', id: KR2a0009_ZHSJ_033-d33p27s7}
-  - {type: substitution, offset: 854, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0981}}
   - {type: punctuation, offset: 856, content: ．, id: KR2a0009_ZHSJ_033-bkkpn196}
   - {type: 'tls:seg', offset: 856, content: '', id: KR2a0009_ZHSJ_033-d33p27s8}
   - {type: xml-element, offset: 859, content: '', id: KR2a0009_ZHSJ_033-bkkxmlele54}
@@ -962,7 +955,6 @@ markers:
   - {type: page-break, offset: 1459, content: '', id: KR2a0009_WYG_033-18b, image: WYG0252/WYG0252-0406b.png}
   - {type: page-break, offset: 1459, content: '', id: KR2a0009_WYG_033-19a, image: WYG0252/WYG0252-0406c.png}
   - {type: variant, offset: 1459, length: 3, content: 戹宜蠲, krp: 蹷原平故屬太原古史考曰趙衰居原今原平縣彊陰朔方郡武帝置六城户千九百八十七口七千八百四十三臨戎三封朔方沃野廣牧大城故屬西河右并州刺史部郡九縣邑侯國九十八古今注曰建武十一年十月西河上郡屬魏魏志曰建安二十年省雲中定襄五原朔方置一縣領其民合以為新興郡涿郡髙帝置雒陽東北千八百里七城户十萬二千二百一十八口六十三萬三千七百五十四涿逎侯國史記漢武帝至鳴澤服䖍曰在縣北界故安易水出雹水出案本紀永元十五年復置縣鐵官范陽侯國良鄉北新城有汾水門史記曰趙與燕分門方城故屬廣陽有臨鄉故縣後省惠文王與燕臨樂有督亭劉向别錄曰督亢膏腴之地史記荆軻奉督亢圖入秦廣陽郡髙帝置為燕國昭帝更名為郡世祖省并上谷永平八年復五城户四萬四千五百五十口二十八萬六百薊本燕國刺史治漢官曰雒陽東北二千里廣陽昌平故屬上谷軍都故屬上谷安次故屬勃海代郡秦置雒陽東北二千五百里古今注曰建武二十七年七月屬幽州十一城户二萬一百二十三口十二萬六千一百八十八髙栁桑乾道人當城馬城班氏狋氏北平邑永元八年復東安陽平舒代干寳搜神記曰代城始築立板幹一旦亡西南板四五十里于澤中自立結葦為外門因就營築焉故其城周圓三十五丈為九門故城處呼之以為東城上谷郡秦置雒陽東北三千二百里八城户萬三百五十二口五萬一千二百四沮陽潘永元十一年復甯廣甯居庸雊瞀涿鹿帝王世紀曰黄帝所都有蚩尤地阪泉地黄帝祠世本云在鼓城南張晏曰在上谷于瓉案禮五帝位云黄帝與赤帝戰于阪泉之野不在涿鹿是伐蚩尤之地下落漁陽郡秦置雒陽東北二千里九城户六萬八千四百五十六口四十三萬五千七百四十漁陽有鐵狐奴潞雍奴泉州有鐵平谷安樂傂奚獷平右北平郡秦置雒陽東北二千三百里四城户九千一百七十口五萬三千四百七十五土垠徐無俊靡無終遼西郡秦置雒陽東北三千三百里五城户萬四千一百五十口八萬一千七百一十四陽樂海陽令支有孤竹城伯夷叔齊本國肥如臨渝山海經曰碣石之山編水出焉其上有玉其下有青碧水經曰在縣南郭璞曰或曰在右北平驪城縣海邊山也遼東郡秦置雒陽東北三千六百里案本紀和帝永元十六年郡復置西部都尉官十一城户六萬四千一百五十八口八萬一千七百一十四襄平新昌無慮望平候城安市平郭有鐵西安平魏氏春秋曰縣北有小水南流入海句驪别種因名之小水貊汶番汗沓氏𤣥莵郡武帝置雒陽東北四千里六城户一千五百九十四口四萬三千一百六十三髙句驪遼山遼水出山海經曰遼水出白平東郭璞曰出塞外御白平山遼山小遼水所出西蓋鳥上殷台髙顯故屬遼東候城故屬遼東遼陽故屬遼東東觀書安帝即位之年分三縣來屬樂浪郡武帝置雒陽東北五千里十八城户六萬一千四百九十二口二十五萬七千五十朝鮮􅠗邯􅀈水貪資占蟬遂城増地帶方駟望海冥列口郭璞注山海經曰列水名列水在遼東長岑屯有昭明鏤方提奚渾彌樂都遼東屬國故邯鄉西部都尉安帝時以為屬國都尉别領六城雒陽東北三千二百六十里昌遼故天遼屬遼西何}
-  - {type: substitution, offset: 1459, original: 戹, replacement: 厄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1578}}
   - {type: punctuation, offset: 1460, content: ，, id: KR2a0009_ZHSJ_033-bkkpn344}
   - {type: punctuation, offset: 1460, content: 〔一〕, id: KR2a0009_ZHSJ_033-bkkpn345}
   - {type: 'tls:seg', offset: 1460, content: '', id: KR2a0009_ZHSJ_033-d33p38s8}
@@ -978,7 +970,6 @@ markers:
   - {type: 'tls:seg', offset: 1472, content: '', id: KR2a0009_ZHSJ_033-d33p38s10}
   - {type: punctuation, offset: 1475, content: ．, id: KR2a0009_ZHSJ_033-bkkpn349}
   - {type: 'tls:seg', offset: 1475, content: '', id: KR2a0009_ZHSJ_033-d33p38s11}
-  - {type: substitution, offset: 1477, original: 襃, replacement: 褒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1497}}
   - {type: punctuation, offset: 1479, content: ，, id: KR2a0009_ZHSJ_033-bkkpn350}
   - {type: 'tls:seg', offset: 1479, content: '', id: KR2a0009_ZHSJ_033-d33p38s12}
   - {type: punctuation, offset: 1485, content: ，, id: KR2a0009_ZHSJ_033-bkkpn351}
@@ -1111,7 +1102,6 @@ markers:
   - {type: variant, offset: 1657, length: 10, content: 宋阿母與宦者襃信侯李, WYG: 户九百六十四萬七千八百三十八口四千八百六十九萬七百八十九墾田六百九十四萬二千八百九十二頃一十三畝八十五步順帝建康}
   - {type: page-break, offset: 1657, content: '', id: KR2a0009_WYG_033-22b, image: WYG0252/WYG0252-0408b.png}
   - {type: variant, offset: 1657, length: 10, content: 宋阿母與宦者襃信侯李, krp: 户九百六十四萬七千八百三十八口四千八百六十九萬七百八十九墾田六百九十四萬二千八百九十二頃一十三畝八十五步順帝建康}
-  - {type: substitution, offset: 1663, original: 襃, replacement: 褒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1497}}
   - {type: variant, offset: 1668, length: 6, content: 等遘姦廢退後, WYG: 年户九百九十四萬六千九百一十九口四千九百七十三萬五百五十墾田六百八十九萬六千}
   - {type: variant, offset: 1668, length: 6, content: 等遘姦廢退後, krp: 年户九百九十四萬六千九百一十九口四千九百七十三萬五百五十墾田六百八十九萬六千}
   - {type: punctuation, offset: 1673, content: ；, id: KR2a0009_ZHSJ_033-bkkpn399}
@@ -1147,7 +1137,6 @@ markers:
   - {type: 'tls:seg', offset: 1741, content: '', id: KR2a0009_ZHSJ_033-d33p39s3}
   - {type: punctuation, offset: 1745, content: ．, id: KR2a0009_ZHSJ_033-bkkpn411}
   - {type: 'tls:seg', offset: 1745, content: '', id: KR2a0009_ZHSJ_033-d33p39s4}
-  - {type: substitution, offset: 1747, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: punctuation, offset: 1748, content: ，, id: KR2a0009_ZHSJ_033-bkkpn412}
   - {type: 'tls:seg', offset: 1748, content: '', id: KR2a0009_ZHSJ_033-d33p39s5}
   - {type: page-break, offset: 1749, content: '', id: KR2a0009_ZHSJ_033-1050a}
@@ -1164,7 +1153,6 @@ markers:
   - {type: 'tls:seg', offset: 1766, content: '', id: KR2a0009_ZHSJ_033-d33p39s9}
   - {type: punctuation, offset: 1770, content: ，, id: KR2a0009_ZHSJ_033-bkkpn417}
   - {type: 'tls:seg', offset: 1770, content: '', id: KR2a0009_ZHSJ_033-d33p39s10}
-  - {type: substitution, offset: 1772, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 1778, content: ．, id: KR2a0009_ZHSJ_033-bkkpn418}
   - {type: 'tls:seg', offset: 1778, content: '', id: KR2a0009_ZHSJ_033-d33p39s11}
   - {type: line-break, offset: 1782, content: '', id: ZHSJ__dup7863}
@@ -1220,7 +1208,6 @@ markers:
   - {type: page-break, offset: 1834, content: '', id: KR2a0009_WYG_033-26a, image: WYG0252/WYG0252-0410a.png}
   - {type: page-break, offset: 1834, content: '', id: KR2a0009_WYG_033-26b, image: WYG0252/WYG0252-0410b.png}
   - {type: variant, offset: 1834, length: 1, content: 謚, krp: 司馬官千人官皆官名非城名也前志張掖領十縣後志領八城其居延别為居延屬國顯美改屬武威郡未知張掖屬國所領之五城為何名也張掖居延屬國注安帝别領一郡郡字何焯校本改城壺關注今名平澤本亦作無睪何焯校本改平睪泫氏注白城在郡南山中何焯校本削白字穀逺注泌水所出泌前書作沁埒何焯校本改垀大城何焯校本城字去土傍廣陽郡注永平八年復臣召南按和帝永元八年復非永平也按此注昭帝更名為郡之下尚缺宣帝復為國五字蓋本始元年更為廣陽國至光武始并入上谷郡耳汶何焯校本滅去氵按前書作文髙句驪注出塞外御白平山御當作銜西蓋鳥前書作西蓋馬臣召南按本書東沃沮在髙句驪蓋馬太山之東知此作鳥誤候城臣召南按顧炎武救文格論}
-  - {type: substitution, offset: 1834, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3933}}
   - {type: variant, offset: 1836, length: 0, content: '', WYG: 候城改屬元莵而遼東復出一候城無慮改屬遼東屬國而遼東復出一無慮必有一焉宜刪者然則天下郡國少二城矣占蟬前書作黏蟬遂城前書作遂成遼東屬國臣世駿按此郡獨無户口昌遼故天遼屬遼西臣召南按前志遼西無天遼縣顧炎武考古錄疑此志昌遼故天遼五字當作昌黎故交黎是也又考安帝紀鮮卑攻夫犁營章懷注曰夫犁縣名屬遼東屬國鮮卑傳又作扶黎注}
   - {type: page-break, offset: 1836, content: '', id: KR2a0009_WYG_033-27a, image: WYG0252/WYG0252-0410c.png}
   - {type: page-break, offset: 1836, content: '', id: KR2a0009_WYG_033-27b, image: WYG0252/WYG0252-0410d.png}
@@ -1239,4 +1226,4 @@ markers:
   - {type: xml-element, offset: 1855, content: '', id: KR2a0009_ZHSJ_033-d33n1}
   - {type: xml-element, offset: 1855, content: '', id: KR2a0009_ZHSJ_033-d33n1_end}
   back: []
-hash: sha256:ffee87880dede1c0e46247eb142ca6828e000db78ee3931f25298ddc996ae06b
+hash: sha256:d946c476ccf285ca0125357997bf30433cc467f02b0e0cb351c5c1c285e39232

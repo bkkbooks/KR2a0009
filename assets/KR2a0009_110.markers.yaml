@@ -57,7 +57,6 @@ markers:
   - {type: punctuation, offset: 77, content: ，, id: KR2a0009_ZHSJ_110-bkkpn15}
   - {type: 'tls:seg', offset: 77, content: '', id: KR2a0009_ZHSJ_110-d110p2s14}
   - {type: line-break, offset: 80, content: '', id: ZHSJ__dup22899}
-  - {type: substitution, offset: 80, original: 燿, replacement: 耀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1565}}
   - {type: variant, offset: 83, length: 15, content: 形運機授度張百精三階九列二十七, WYG: 時為御史}
   - {type: variant, offset: 83, length: 15, content: 形運機授度張百精三階九列二十七, krp: 時為御史}
   - {type: punctuation, offset: 84, content: ，, id: KR2a0009_ZHSJ_110-bkkpn16}
@@ -159,7 +158,6 @@ markers:
   - {type: 'tls:seg', offset: 272, content: '', id: KR2a0009_ZHSJ_110-d110p3s27}
   - {type: punctuation, offset: 276, content: ，, id: KR2a0009_ZHSJ_110-bkkpn61}
   - {type: 'tls:seg', offset: 276, content: '', id: KR2a0009_ZHSJ_110-d110p3s28}
-  - {type: substitution, offset: 278, original: 擿, replacement: 擲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3855}}
   - {type: punctuation, offset: 280, content: ，, id: KR2a0009_ZHSJ_110-bkkpn62}
   - {type: 'tls:seg', offset: 280, content: '', id: KR2a0009_ZHSJ_110-d110p3s29}
   - {type: punctuation, offset: 284, content: ，, id: KR2a0009_ZHSJ_110-bkkpn63}
@@ -741,7 +739,6 @@ markers:
   - {type: page-break, offset: 1429, content: '', id: KR2a0009_WYG_110-18b, image: WYG0253/WYG0253-0554b.png}
   - {type: page-break, offset: 1429, content: '', id: KR2a0009_WYG_110-19a, image: WYG0253/WYG0253-0554c.png}
   - {type: variant, offset: 1429, length: 6, content: 進兵擊述從弟, krp: 雒人也少以文章顯和帝時侍中賈逵薦尤有相如揚雄之風召詣東觀受詔作賦拜蘭臺令史稍遷安帝時為諫議大夫受詔與謁者僕射劉珍等俱撰漢記後帝廢太子為濟陰王尤上書諫爭順帝立遷樂安相年八十三卒所著詩賦銘誄頌七歎哀典凡二十八篇尤同郡李勝亦有文才為東觀郎著詩誄頌論數十篇蘇順傳蘇順字孝山京兆霸陵人也和安間以才學見稱好養生術隐處求道晚乃仕拜郎中卒於官所著賦論誄哀辭雜文凡十六篇時三輔多士扶風曹衆伯師亦有才學著誄書論四篇三輔決錄注曰衆與鄉里蘇孺文竇伯向馬季長並逰宦唯衆不遇以壽終于家又有曹朔不知何許人作漢頌四篇劉珍傳劉珍字秋孫諸本時有作祕孫者其人名珍與祕義相扶而作秋者多也一名寳南陽蔡陽人也少好學永初中為謁者僕射鄧太后詔使與校書劉騊駼馬融及五經博士校定東觀五經諸子傳記百家藝術整齊脫誤是正文字永寜元年太后又詔珍與騊駼作建武已來名臣傳遷侍中越騎校尉延光四年拜宗正明年轉}
-  - {type: substitution, offset: 1435, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: variant, offset: 1437, length: 0, content: '', WYG: 卒官著誄頌連珠凡七篇又撰釋名三十篇以辯萬物之稱號云葛龔傳葛龔字元甫梁國寜陵人也和帝時以善文記知名龔善為文奏或有請龔奏以干人者龔為作之其人寫之忘自載其名因并寫龔名以進之故時人為之語曰作奏雖工宜去葛龔事見笑林性慷慨壯烈勇力過人安帝}
   - {type: variant, offset: 1437, length: 0, content: '', krp: 卒官著誄頌連珠凡七篇又撰釋名三十篇以辯萬物之稱號云葛龔傳葛龔字元甫梁國寜陵人也和帝時以善文記知名龔善為文奏或有請龔奏以干人者龔為作之其人寫之忘自載其名因并寫龔名以進之故時人為之語曰作奏雖工宜去葛龔事見笑林性慷慨壯烈勇力過人安帝}
   - {type: punctuation, offset: 1438, content: ，, id: KR2a0009_ZHSJ_110-bkkpn295}
@@ -893,7 +890,6 @@ markers:
   - {type: 'tls:seg', offset: 1664, content: '', id: KR2a0009_ZHSJ_110-d110p9s20}
   - {type: punctuation, offset: 1668, content: ．, id: KR2a0009_ZHSJ_110-bkkpn339}
   - {type: 'tls:seg', offset: 1668, content: '', id: KR2a0009_ZHSJ_110-d110p9s21}
-  - {type: substitution, offset: 1668, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 1674, content: ，, id: KR2a0009_ZHSJ_110-bkkpn340}
   - {type: 'tls:seg', offset: 1674, content: '', id: KR2a0009_ZHSJ_110-d110p9s22}
   - {type: line-break, offset: 1678, content: '', id: ZHSJ__dup22952}
@@ -905,7 +901,6 @@ markers:
   - {type: 'tls:seg', offset: 1695, content: '', id: KR2a0009_ZHSJ_110-d110p9s23}
   - {type: punctuation, offset: 1698, content: ．, id: KR2a0009_ZHSJ_110-bkkpn346}
   - {type: 'tls:seg', offset: 1698, content: '', id: KR2a0009_ZHSJ_110-d110p9s24}
-  - {type: substitution, offset: 1698, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 1703, content: ，, id: KR2a0009_ZHSJ_110-bkkpn347}
   - {type: 'tls:seg', offset: 1703, content: '', id: KR2a0009_ZHSJ_110-d110p9s25}
   - {type: punctuation, offset: 1707, content: ，, id: KR2a0009_ZHSJ_110-bkkpn348}
@@ -1020,7 +1015,6 @@ markers:
   - {type: 'tls:seg', offset: 1827, content: '', id: KR2a0009_ZHSJ_110-d110p10s14}
   - {type: variant, offset: 1827, length: 43, content: 盧芳從匈奴入居高柳至十六年十月降上璽綬一日昴星為獄事是時大司徒歐陽歙以事繫獄踰歲死營室, WYG: 絶軌崇成莊之洪基史記楚成王布徳施惠結舊好於諸侯使人獻於}
   - {type: variant, offset: 1827, length: 43, content: 盧芳從匈奴入居高柳至十六年十月降上璽綬一日昴星為獄事是時大司徒歐陽歙以事繫獄踰歲死營室, krp: 絶軌崇成莊之洪基史記楚成王布徳施惠結舊好於諸侯使人獻於}
-  - {type: substitution, offset: 1830, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 1836, content: ，, id: KR2a0009_ZHSJ_110-bkkpn379}
   - {type: 'tls:seg', offset: 1836, content: '', id: KR2a0009_ZHSJ_110-d110p10s15}
   - {type: punctuation, offset: 1843, content: ，, id: KR2a0009_ZHSJ_110-bkkpn380}
@@ -1294,9 +1288,7 @@ markers:
   - {type: 'tls:seg', offset: 2222, content: '', id: KR2a0009_ZHSJ_110-d110p13s9}
   - {type: punctuation, offset: 2225, content: ．, id: KR2a0009_ZHSJ_110-bkkpn467}
   - {type: 'tls:seg', offset: 2225, content: '', id: KR2a0009_ZHSJ_110-d110p13s10}
-  - {type: substitution, offset: 2229, original: 憙, replacement: 喜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3648}}
   - {type: punctuation, offset: 2230, content: ､, id: KR2a0009_ZHSJ_110-bkkpn468}
-  - {type: substitution, offset: 2233, original: 訢, replacement: 欣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0547}}
   - {type: punctuation, offset: 2238, content: ．, id: KR2a0009_ZHSJ_110-bkkpn469}
   - {type: 'tls:seg', offset: 2238, content: '', id: KR2a0009_ZHSJ_110-d110p13s11}
   - {type: punctuation, offset: 2243, content: ．, id: KR2a0009_ZHSJ_110-bkkpn470}
@@ -1309,4 +1301,4 @@ markers:
   - {type: xml-element, offset: 2263, content: '', id: KR2a0009_ZHSJ_110-d110n1}
   - {type: xml-element, offset: 2263, content: '', id: KR2a0009_ZHSJ_110-d110n1_end}
   back: []
-hash: sha256:b49fbbd1384bfa114fdb2d144f5c7ccec495d9efaaf3f23448f87c3d34049a6c
+hash: sha256:ec664ac69aab2d5af8f6c6161aa3975332a8621ada5b6d49875fda7af2e1876f
