@@ -21,7 +21,7 @@ editions:
 - {short: ZHSJ}
 assets:
   parts:
-  - {seq: 1, filename: KR2a0009_001.yaml, hash: 'sha256:c14c35c3d220ee532fd379bda0de9b6a497d815a207439cdfdd93054c6265962'}
+  - {seq: 1, filename: KR2a0009_001.yaml, hash: 'sha256:75fa810d0b0040bcefcceea936c508ff510dff936dae403fbbe283ffa655ea47'}
   - {seq: 2, filename: KR2a0009_002.yaml, hash: 'sha256:98e629f3905ae0c0d54a8f65684fe98de6eb322873a296a63b7220996d63e413'}
   - {seq: 3, filename: KR2a0009_003.yaml, hash: 'sha256:7c2be2d9461103dd5a32bcf13a27204ea61974a1d687396c77870c9b3ac9e9d9'}
   - {seq: 4, filename: KR2a0009_004.yaml, hash: 'sha256:acf20f7f766edc2ec69d98e56b5ea3b94764efadd99068ce70af3030a1f8d597'}
@@ -152,7 +152,7 @@ assets:
   - {seq: 129, filename: KR2a0009_129.yaml, hash: 'sha256:5bdcb83016bdaa40688a6ebe3f2306bdea7a38e3b5037ef1c1aaf2a67b8c9cac'}
   - {seq: 130, filename: KR2a0009_130.yaml, hash: 'sha256:d2c8d94451a73bc162d670bbbf55ffff2cb0a8ba4a87e966396d0612b4f661cf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2a0009_001.markers.yaml, hash: 'sha256:f9c0696363d0c24b2c089b03f04226d3d83e1b4d139855bf04f7d9b327919193'}
+  - {seq: 1, role: markers, filename: assets/KR2a0009_001.markers.yaml, hash: 'sha256:a79cd778d641805ff18a4d047da191dabc634391aeaca42e9eb6fb7453bd3497'}
   - {seq: 2, role: markers, filename: assets/KR2a0009_002.markers.yaml, hash: 'sha256:3ea310bbdcc75b6c7acef96613d49d20259e7292178e5c7bd404cd593c3c01ba'}
   - {seq: 3, role: markers, filename: assets/KR2a0009_003.markers.yaml, hash: 'sha256:3a3dcf11be875d66212f7a6d6356d77cc7c79585ede5a6336e3b539a140b1156'}
   - {seq: 4, role: markers, filename: assets/KR2a0009_004.markers.yaml, hash: 'sha256:e035f537c50951fbf42c0b8c9c09bc05f8381893d5a1891a5bf5a87b4266aabb'}
@@ -289,7 +289,7 @@ table_of_contents:
     span:
     - body
     - 0
-    - 6645
+    - 6639
   label: 後漢書卷一上
   type: section
   level: 1
@@ -1583,7 +1583,7 @@ table_of_contents:
   label: 後漢書志第三十
   type: section
   level: 1
-hash: sha256:6ca0a84bd23df0321a813076963f84dc3101be3de80bc39766dbd8ec39bdd7b0
+hash: sha256:bc79bac5332b7183499fe458f930db9c060dfacee1886658360147d167d6c303
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
