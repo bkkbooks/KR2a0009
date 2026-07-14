@@ -299,6 +299,7 @@ markers:
   - {type: 'tls:seg', offset: 626, content: '', id: KR2a0009_ZHSJ_062-d62p6s19}
   - {type: punctuation, offset: 628, content: （, id: KR2a0009_ZHSJ_062-bkkpn136}
   - {type: punctuation, offset: 628, content: (, id: KR2a0009_ZHSJ_062-bkkpn137}
+  - {type: voice, offset: 628, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 629, content: ), id: KR2a0009_ZHSJ_062-bkkpn138}
   - {type: punctuation, offset: 629, content: ）, id: KR2a0009_ZHSJ_062-bkkpn139}
   - {type: punctuation, offset: 630, content: 【, id: KR2a0009_ZHSJ_062-bkkpn140}
@@ -637,6 +638,7 @@ markers:
   - {type: 'tls:seg', offset: 1298, content: '', id: KR2a0009_ZHSJ_062-d62p18s6}
   - {type: punctuation, offset: 1299, content: （, id: KR2a0009_ZHSJ_062-bkkpn292}
   - {type: punctuation, offset: 1299, content: (, id: KR2a0009_ZHSJ_062-bkkpn293}
+  - {type: voice, offset: 1299, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1300, content: ), id: KR2a0009_ZHSJ_062-bkkpn294}
   - {type: punctuation, offset: 1300, content: ）, id: KR2a0009_ZHSJ_062-bkkpn295}
   - {type: xml-element, offset: 1300, content: '', id: KR2a0009_ZHSJ_062-bkkxmlele36, name: p, role: close}
@@ -1069,6 +1071,7 @@ markers:
   - {type: 'tls:seg', offset: 2155, content: '', id: KR2a0009_ZHSJ_062-d62p47s2}
   - {type: punctuation, offset: 2155, content: （, id: KR2a0009_ZHSJ_062-bkkpn465}
   - {type: punctuation, offset: 2155, content: (, id: KR2a0009_ZHSJ_062-bkkpn466}
+  - {type: voice, offset: 2155, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2156, content: ), id: KR2a0009_ZHSJ_062-bkkpn467}
   - {type: punctuation, offset: 2156, content: ）, id: KR2a0009_ZHSJ_062-bkkpn468}
   - {type: punctuation, offset: 2156, content: 【, id: KR2a0009_ZHSJ_062-bkkpn469}
@@ -1824,6 +1827,7 @@ markers:
   - {type: 'tls:seg', offset: 3845, content: '', id: KR2a0009_ZHSJ_062-d62p58s79}
   - {type: punctuation, offset: 3846, content: （, id: KR2a0009_ZHSJ_062-bkkpn838}
   - {type: punctuation, offset: 3846, content: (, id: KR2a0009_ZHSJ_062-bkkpn839}
+  - {type: voice, offset: 3846, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3847, content: ), id: KR2a0009_ZHSJ_062-bkkpn840}
   - {type: punctuation, offset: 3847, content: ）, id: KR2a0009_ZHSJ_062-bkkpn841}
   - {type: punctuation, offset: 3847, content: 【, id: KR2a0009_ZHSJ_062-bkkpn842}
@@ -2126,6 +2130,7 @@ markers:
   - {type: 'tls:seg', offset: 4387, content: '', id: KR2a0009_ZHSJ_062-d62p72s2}
   - {type: punctuation, offset: 4389, content: （, id: KR2a0009_ZHSJ_062-bkkpn976}
   - {type: punctuation, offset: 4389, content: (, id: KR2a0009_ZHSJ_062-bkkpn977}
+  - {type: voice, offset: 4389, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 4390, content: ), id: KR2a0009_ZHSJ_062-bkkpn978}
   - {type: punctuation, offset: 4390, content: ）, id: KR2a0009_ZHSJ_062-bkkpn979}
   - {type: punctuation, offset: 4391, content: 【, id: KR2a0009_ZHSJ_062-bkkpn980}
@@ -2168,6 +2173,7 @@ markers:
   - {type: 'tls:seg', offset: 4458, content: '', id: KR2a0009_ZHSJ_062-d62p74s3}
   - {type: punctuation, offset: 4461, content: （, id: KR2a0009_ZHSJ_062-bkkpn996}
   - {type: punctuation, offset: 4461, content: (, id: KR2a0009_ZHSJ_062-bkkpn997}
+  - {type: voice, offset: 4461, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 4462, content: ), id: KR2a0009_ZHSJ_062-bkkpn998}
   - {type: punctuation, offset: 4462, content: ）, id: KR2a0009_ZHSJ_062-bkkpn999}
   - {type: punctuation, offset: 4462, content: 【, id: KR2a0009_ZHSJ_062-bkkpn1000}
@@ -2706,4 +2712,4 @@ markers:
   - {type: xml-element, offset: 5451, content: '', id: KR2a0009_ZHSJ_062-d62n1, name: note, role: open, attrs: {'xml:id': KR2a0009_ZHSJ_062-d62n1, type: text-crit}}
   - {type: xml-element, offset: 5451, content: '', id: KR2a0009_ZHSJ_062-d62n1_end, name: note, role: close, attrs: {'xml:id': KR2a0009_ZHSJ_062-d62n1, type: text-crit}}
   back: []
-hash: sha256:a129c5426f0bc0efb9f28ffd57c3cf0de8ae70e48387c6e77e06f4d8a636b2c7
+hash: sha256:bd30677c4dd12700fc14f39156cfcea33961d8faf146eb8cb0ed9272f95bf9da

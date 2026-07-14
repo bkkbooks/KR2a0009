@@ -515,6 +515,7 @@ markers:
   - {type: 'tls:seg', offset: 653, content: '', id: KR2a0009_ZHSJ_108-d108p12s12}
   - {type: punctuation, offset: 658, content: （, id: KR2a0009_ZHSJ_108-bkkpn138}
   - {type: punctuation, offset: 658, content: (, id: KR2a0009_ZHSJ_108-bkkpn139}
+  - {type: voice, offset: 658, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 659, content: ), id: KR2a0009_ZHSJ_108-bkkpn140}
   - {type: punctuation, offset: 659, content: ）, id: KR2a0009_ZHSJ_108-bkkpn141}
   - {type: punctuation, offset: 659, content: 【, id: KR2a0009_ZHSJ_108-bkkpn142}
@@ -579,6 +580,7 @@ markers:
   - {type: 'tls:seg', offset: 760, content: '', id: KR2a0009_ZHSJ_108-d108p13s2}
   - {type: punctuation, offset: 764, content: ，, id: KR2a0009_ZHSJ_108-bkkpn173}
   - {type: 'tls:seg', offset: 764, content: '', id: KR2a0009_ZHSJ_108-d108p13s3}
+  - {type: substitution, offset: 770, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 771, content: ，, id: KR2a0009_ZHSJ_108-bkkpn174}
   - {type: 'tls:seg', offset: 771, content: '', id: KR2a0009_ZHSJ_108-d108p13s4}
   - {type: punctuation, offset: 775, content: ，, id: KR2a0009_ZHSJ_108-bkkpn175}
@@ -622,6 +624,7 @@ markers:
   - {type: 'tls:seg', offset: 858, content: '', id: KR2a0009_ZHSJ_108-d108p14s6}
   - {type: punctuation, offset: 861, content: （, id: KR2a0009_ZHSJ_108-bkkpn195}
   - {type: punctuation, offset: 861, content: (, id: KR2a0009_ZHSJ_108-bkkpn196}
+  - {type: voice, offset: 861, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 862, content: ), id: KR2a0009_ZHSJ_108-bkkpn197}
   - {type: punctuation, offset: 862, content: ）, id: KR2a0009_ZHSJ_108-bkkpn198}
   - {type: punctuation, offset: 862, content: 【, id: KR2a0009_ZHSJ_108-bkkpn199}
@@ -642,6 +645,7 @@ markers:
   - {type: variant, offset: 876, length: 9, content: 即位十八年好神僊事, krp: 時為小黄門忠以與誅梁冀功封都鄉侯與音預}
   - {type: punctuation, offset: 881, content: ，, id: KR2a0009_ZHSJ_108-bkkpn204}
   - {type: 'tls:seg', offset: 881, content: '', id: KR2a0009_ZHSJ_108-d108p15s2}
+  - {type: substitution, offset: 883, original: 僊, replacement: 仙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16258}}
   - {type: punctuation, offset: 885, content: ．, id: KR2a0009_ZHSJ_108-bkkpn205}
   - {type: 'tls:seg', offset: 885, content: '', id: KR2a0009_ZHSJ_108-d108p15s3}
   - {type: punctuation, offset: 889, content: ，, id: KR2a0009_ZHSJ_108-bkkpn206}
@@ -691,6 +695,7 @@ markers:
   - {type: variant, offset: 914, length: 16, content: 壇飾淳金釦器設華蓋之坐用郊天樂也, krp: 關中侯何焯校本中改内後漢書卷一百八考證}
   - {type: punctuation, offset: 915, content: ，, id: KR2a0009_ZHSJ_108-bkkpn210}
   - {type: 'tls:seg', offset: 915, content: '', id: KR2a0009_ZHSJ_108-d108p15s8}
+  - {type: substitution, offset: 918, original: 釦, replacement: 扣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16302}}
   - {type: punctuation, offset: 920, content: ，, id: KR2a0009_ZHSJ_108-bkkpn211}
   - {type: 'tls:seg', offset: 920, content: '', id: KR2a0009_ZHSJ_108-d108p15s9}
   - {type: punctuation, offset: 925, content: ，, id: KR2a0009_ZHSJ_108-bkkpn212}
@@ -700,4 +705,4 @@ markers:
   - {type: xml-element, offset: 930, content: '', id: KR2a0009_ZHSJ_108-d108n1}
   - {type: xml-element, offset: 930, content: '', id: KR2a0009_ZHSJ_108-d108n1_end}
   back: []
-hash: sha256:a20eeb57a2cc30a4c6167af12c97f98d3b4f2104194f9c4deaa1133d681c96b5
+hash: sha256:9e62054fc4a95b9a746f162d3d05537eb755c26421a149f3fc3f7ce9b7af89d9

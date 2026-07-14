@@ -381,6 +381,7 @@ markers:
   - {type: 'tls:seg', offset: 714, content: '', id: KR2a0009_ZHSJ_005-d5p15s3}
   - {type: punctuation, offset: 721, content: （, id: KR2a0009_ZHSJ_005-bkkpn178}
   - {type: punctuation, offset: 721, content: (, id: KR2a0009_ZHSJ_005-bkkpn179}
+  - {type: voice, offset: 721, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 722, content: ), id: KR2a0009_ZHSJ_005-bkkpn180}
   - {type: punctuation, offset: 722, content: ）, id: KR2a0009_ZHSJ_005-bkkpn181}
   - {type: punctuation, offset: 722, content: 【, id: KR2a0009_ZHSJ_005-bkkpn182}
@@ -398,12 +399,14 @@ markers:
   - {type: 'tls:seg', offset: 744, content: '', id: KR2a0009_ZHSJ_005-d5p15s7}
   - {type: punctuation, offset: 746, content: （, id: KR2a0009_ZHSJ_005-bkkpn190}
   - {type: punctuation, offset: 746, content: (, id: KR2a0009_ZHSJ_005-bkkpn191}
+  - {type: voice, offset: 746, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 747, content: ), id: KR2a0009_ZHSJ_005-bkkpn192}
   - {type: punctuation, offset: 747, content: ）, id: KR2a0009_ZHSJ_005-bkkpn193}
   - {type: punctuation, offset: 747, content: 【, id: KR2a0009_ZHSJ_005-bkkpn194}
   - {type: punctuation, offset: 748, content: 】, id: KR2a0009_ZHSJ_005-bkkpn195}
   - {type: punctuation, offset: 749, content: （, id: KR2a0009_ZHSJ_005-bkkpn196}
   - {type: punctuation, offset: 749, content: (, id: KR2a0009_ZHSJ_005-bkkpn197}
+  - {type: voice, offset: 749, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 750, content: ), id: KR2a0009_ZHSJ_005-bkkpn198}
   - {type: punctuation, offset: 750, content: ）, id: KR2a0009_ZHSJ_005-bkkpn199}
   - {type: punctuation, offset: 750, content: 【, id: KR2a0009_ZHSJ_005-bkkpn200}
@@ -3457,4 +3460,4 @@ markers:
   - {type: xml-element, offset: 6352, content: '', id: KR2a0009_ZHSJ_005-d5n1, name: note, role: open, attrs: {'xml:id': KR2a0009_ZHSJ_005-d5n1, type: text-crit}}
   - {type: xml-element, offset: 6352, content: '', id: KR2a0009_ZHSJ_005-d5n1_end, name: note, role: close, attrs: {'xml:id': KR2a0009_ZHSJ_005-d5n1, type: text-crit}}
   back: []
-hash: sha256:74d915432d1d2afa522073a219e2e3aa90789aa02aa1e7180cd65f147a9ae0d9
+hash: sha256:88e0235f2e0a429cc0a6726c5cac8cc75ad77dc17db80959825b32284e2956af

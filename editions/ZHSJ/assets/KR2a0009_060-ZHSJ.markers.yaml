@@ -99,6 +99,7 @@ markers:
   - {type: 'tls:seg', offset: 185, content: '', id: KR2a0009_ZHSJ_060-d60p6s3}
   - {type: punctuation, offset: 187, content: （, id: KR2a0009_ZHSJ_060-bkkpn39}
   - {type: punctuation, offset: 187, content: (, id: KR2a0009_ZHSJ_060-bkkpn40}
+  - {type: voice, offset: 187, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 188, content: ), id: KR2a0009_ZHSJ_060-bkkpn41}
   - {type: punctuation, offset: 188, content: ）, id: KR2a0009_ZHSJ_060-bkkpn42}
   - {type: punctuation, offset: 188, content: 【, id: KR2a0009_ZHSJ_060-bkkpn43}
@@ -944,6 +945,7 @@ markers:
   - {type: 'tls:seg', offset: 2066, content: '', id: KR2a0009_ZHSJ_060-d60p20s12}
   - {type: punctuation, offset: 2066, content: （, id: KR2a0009_ZHSJ_060-bkkpn449}
   - {type: punctuation, offset: 2066, content: (, id: KR2a0009_ZHSJ_060-bkkpn450}
+  - {type: voice, offset: 2066, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2067, content: ), id: KR2a0009_ZHSJ_060-bkkpn451}
   - {type: punctuation, offset: 2067, content: ）, id: KR2a0009_ZHSJ_060-bkkpn452}
   - {type: punctuation, offset: 2067, content: 【, id: KR2a0009_ZHSJ_060-bkkpn453}
@@ -1307,6 +1309,7 @@ markers:
   - {type: line-break, offset: 2880, content: '', id: ZHSJ__dup13105, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 2883, content: （, id: KR2a0009_ZHSJ_060-bkkpn615}
   - {type: punctuation, offset: 2883, content: (, id: KR2a0009_ZHSJ_060-bkkpn616}
+  - {type: voice, offset: 2883, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2884, content: ), id: KR2a0009_ZHSJ_060-bkkpn617}
   - {type: punctuation, offset: 2884, content: ）, id: KR2a0009_ZHSJ_060-bkkpn618}
   - {type: punctuation, offset: 2884, content: 【, id: KR2a0009_ZHSJ_060-bkkpn619}
@@ -1633,6 +1636,7 @@ markers:
   - {type: 'tls:seg', offset: 3559, content: '', id: KR2a0009_ZHSJ_060-d60p37s16}
   - {type: punctuation, offset: 3562, content: （, id: KR2a0009_ZHSJ_060-bkkpn776}
   - {type: punctuation, offset: 3562, content: (, id: KR2a0009_ZHSJ_060-bkkpn777}
+  - {type: voice, offset: 3562, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3563, content: ), id: KR2a0009_ZHSJ_060-bkkpn778}
   - {type: punctuation, offset: 3563, content: ）, id: KR2a0009_ZHSJ_060-bkkpn779}
   - {type: punctuation, offset: 3563, content: 【, id: KR2a0009_ZHSJ_060-bkkpn780}
@@ -1673,6 +1677,7 @@ markers:
   - {type: 'tls:seg', offset: 3646, content: '', id: KR2a0009_ZHSJ_060-d60p38s4}
   - {type: punctuation, offset: 3647, content: （, id: KR2a0009_ZHSJ_060-bkkpn797}
   - {type: punctuation, offset: 3647, content: (, id: KR2a0009_ZHSJ_060-bkkpn798}
+  - {type: voice, offset: 3647, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 3648, content: ), id: KR2a0009_ZHSJ_060-bkkpn799}
   - {type: punctuation, offset: 3648, content: ）, id: KR2a0009_ZHSJ_060-bkkpn800}
   - {type: punctuation, offset: 3648, content: 【, id: KR2a0009_ZHSJ_060-bkkpn801}
@@ -1681,6 +1686,7 @@ markers:
   - {type: 'tls:seg', offset: 3650, content: '', id: KR2a0009_ZHSJ_060-d60p38s5}
   - {type: punctuation, offset: 3650, content: （, id: KR2a0009_ZHSJ_060-bkkpn804}
   - {type: punctuation, offset: 3650, content: (, id: KR2a0009_ZHSJ_060-bkkpn805}
+  - {type: voice, offset: 3650, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 3651, content: ), id: KR2a0009_ZHSJ_060-bkkpn806}
   - {type: punctuation, offset: 3651, content: ）, id: KR2a0009_ZHSJ_060-bkkpn807}
   - {type: punctuation, offset: 3651, content: 【, id: KR2a0009_ZHSJ_060-bkkpn808}
@@ -1893,4 +1899,4 @@ markers:
   - {type: xml-element, offset: 4060, content: '', id: KR2a0009_ZHSJ_060-d60n1, name: note, role: open, attrs: {'xml:id': KR2a0009_ZHSJ_060-d60n1, type: text-crit}}
   - {type: xml-element, offset: 4060, content: '', id: KR2a0009_ZHSJ_060-d60n1_end, name: note, role: close, attrs: {'xml:id': KR2a0009_ZHSJ_060-d60n1, type: text-crit}}
   back: []
-hash: sha256:f6108db1ddcae109481373b945d39b73846f6caabeb94a6274036d1314ba8f45
+hash: sha256:7d0bdce014dfe88fb7bbddecb35c56a352b4f7e3c66bab43851018f7c5282f5a

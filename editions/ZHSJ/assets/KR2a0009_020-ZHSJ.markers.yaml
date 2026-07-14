@@ -737,6 +737,7 @@ markers:
   - {type: punctuation, offset: 1598, content: ､, id: KR2a0009_ZHSJ_020-bkkpn361}
   - {type: punctuation, offset: 1599, content: （, id: KR2a0009_ZHSJ_020-bkkpn362}
   - {type: punctuation, offset: 1599, content: (, id: KR2a0009_ZHSJ_020-bkkpn363}
+  - {type: voice, offset: 1599, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1600, content: ), id: KR2a0009_ZHSJ_020-bkkpn364}
   - {type: punctuation, offset: 1600, content: ）, id: KR2a0009_ZHSJ_020-bkkpn365}
   - {type: punctuation, offset: 1600, content: 【, id: KR2a0009_ZHSJ_020-bkkpn366}
@@ -1615,6 +1616,7 @@ markers:
   - {type: 'tls:seg', offset: 3473, content: '', id: KR2a0009_ZHSJ_020-d20p26s5}
   - {type: punctuation, offset: 3476, content: （, id: KR2a0009_ZHSJ_020-bkkpn802}
   - {type: punctuation, offset: 3476, content: (, id: KR2a0009_ZHSJ_020-bkkpn803}
+  - {type: voice, offset: 3476, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3477, content: ), id: KR2a0009_ZHSJ_020-bkkpn804}
   - {type: punctuation, offset: 3477, content: ）, id: KR2a0009_ZHSJ_020-bkkpn805}
   - {type: punctuation, offset: 3477, content: 【, id: KR2a0009_ZHSJ_020-bkkpn806}
@@ -1664,6 +1666,7 @@ markers:
   - {type: 'tls:seg', offset: 3562, content: '', id: KR2a0009_ZHSJ_020-d20p26s20}
   - {type: punctuation, offset: 3564, content: （, id: KR2a0009_ZHSJ_020-bkkpn832}
   - {type: punctuation, offset: 3564, content: (, id: KR2a0009_ZHSJ_020-bkkpn833}
+  - {type: voice, offset: 3564, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3565, content: ), id: KR2a0009_ZHSJ_020-bkkpn834}
   - {type: punctuation, offset: 3565, content: ）, id: KR2a0009_ZHSJ_020-bkkpn835}
   - {type: punctuation, offset: 3567, content: ，, id: KR2a0009_ZHSJ_020-bkkpn836}
@@ -1853,6 +1856,7 @@ markers:
   - {type: 'tls:seg', offset: 3935, content: '', id: KR2a0009_ZHSJ_020-d20p31s2}
   - {type: punctuation, offset: 3937, content: （, id: KR2a0009_ZHSJ_020-bkkpn925}
   - {type: punctuation, offset: 3937, content: (, id: KR2a0009_ZHSJ_020-bkkpn926}
+  - {type: voice, offset: 3937, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3938, content: ), id: KR2a0009_ZHSJ_020-bkkpn927}
   - {type: punctuation, offset: 3938, content: ）, id: KR2a0009_ZHSJ_020-bkkpn928}
   - {type: punctuation, offset: 3938, content: 【, id: KR2a0009_ZHSJ_020-bkkpn929}
@@ -2168,6 +2172,7 @@ markers:
   - {type: 'tls:seg', offset: 4545, content: '', id: KR2a0009_ZHSJ_020-d20p37s7}
   - {type: punctuation, offset: 4546, content: （, id: KR2a0009_ZHSJ_020-bkkpn1083}
   - {type: punctuation, offset: 4546, content: (, id: KR2a0009_ZHSJ_020-bkkpn1084}
+  - {type: voice, offset: 4546, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 4547, content: ), id: KR2a0009_ZHSJ_020-bkkpn1085}
   - {type: punctuation, offset: 4547, content: ）, id: KR2a0009_ZHSJ_020-bkkpn1086}
   - {type: punctuation, offset: 4547, content: 【, id: KR2a0009_ZHSJ_020-bkkpn1087}
@@ -2271,6 +2276,7 @@ markers:
   - {type: 'tls:seg', offset: 4772, content: '', id: KR2a0009_ZHSJ_020-d20p39s8}
   - {type: punctuation, offset: 4781, content: （, id: KR2a0009_ZHSJ_020-bkkpn1136}
   - {type: punctuation, offset: 4781, content: (, id: KR2a0009_ZHSJ_020-bkkpn1137}
+  - {type: voice, offset: 4781, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 4782, content: ), id: KR2a0009_ZHSJ_020-bkkpn1138}
   - {type: punctuation, offset: 4782, content: ）, id: KR2a0009_ZHSJ_020-bkkpn1139}
   - {type: punctuation, offset: 4782, content: 【, id: KR2a0009_ZHSJ_020-bkkpn1140}
@@ -2844,4 +2850,4 @@ markers:
   - {type: xml-element, offset: 5955, content: '', id: KR2a0009_ZHSJ_020-d20n1, name: note, role: open, attrs: {'xml:id': KR2a0009_ZHSJ_020-d20n1, type: text-crit}}
   - {type: xml-element, offset: 5955, content: '', id: KR2a0009_ZHSJ_020-d20n1_end, name: note, role: close, attrs: {'xml:id': KR2a0009_ZHSJ_020-d20n1, type: text-crit}}
   back: []
-hash: sha256:a57f0a9f6a87056aff1ac2b4341651ad4838df283d1c49d987b7942c6fa1a062
+hash: sha256:40057963344dc8f330a4b72e8d3da8992b561f4bf5fee520a0c86ff17af6f405

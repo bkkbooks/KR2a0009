@@ -48,6 +48,7 @@ markers:
   - {type: punctuation, offset: 43, content: ▲, id: KR2a0009_ZHSJ_121-bkkpn1}
   - {type: punctuation, offset: 46, content: ), id: KR2a0009_ZHSJ_121-bkkpn2}
   - {type: punctuation, offset: 46, content: (, id: KR2a0009_ZHSJ_121-bkkpn3}
+  - {type: 'voice:problem', offset: 46, length: 0, id: KR2a0009_bkk_121-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 46 with no matching '('}
   - {type: punctuation, offset: 49, content: ．, id: KR2a0009_ZHSJ_121-bkkpn4}
   - {type: 'tls:seg', offset: 49, content: '', id: KR2a0009_ZHSJ_121-d121p3s2}
   - {type: punctuation, offset: 57, content: ．, id: KR2a0009_ZHSJ_121-bkkpn5}
@@ -119,6 +120,7 @@ markers:
   - {type: punctuation, offset: 133, content: 〔九〕, id: KR2a0009_ZHSJ_121-bkkpn39}
   - {type: 'tls:seg', offset: 133, content: '', id: KR2a0009_ZHSJ_121-d121p6s9}
   - {type: punctuation, offset: 133, content: ▲, id: KR2a0009_ZHSJ_121-bkkpn40}
+  - {type: substitution, offset: 134, original: 昬, replacement: 昏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16751}}
   - {type: punctuation, offset: 135, content: ), id: KR2a0009_ZHSJ_121-bkkpn41}
   - {type: punctuation, offset: 135, content: 〔一０〕, id: KR2a0009_ZHSJ_121-bkkpn42}
   - {type: 'tls:seg', offset: 135, content: '', id: KR2a0009_ZHSJ_121-d121p6s10}
@@ -183,6 +185,7 @@ markers:
   - {type: punctuation, offset: 190, content: ), id: KR2a0009_ZHSJ_121-bkkpn79}
   - {type: variant, offset: 191, length: 981, content: 菑章帝更名故屬梁圉故屬淮陽有高陽亭扶溝故屬淮陽濮陽古昆吾國春秋時曰濮有鹹城或曰古鹹國有清丘有鉏城燕本南燕國有雍鄉有胙城古胙國有平陽亭有瓦亭有桃城白馬有韋鄉頓丘東阿有清亭東武陽濕水出范有秦亭臨邑有沛泲廟博平聊城有夷儀聚有聶戚城發干樂平侯國故清章帝更名陽平侯國有莘亭有岡成城衞公國本觀故國姚姓光武更名有河牧城有竿城穀城春秋時小穀有巂下聚十四萬八千二百七十無鹽本宿國任姓有章城東平陸六國時曰平陸有闞亭有堂陽亭富成章壽張春秋曰良漢曰壽良光武改曰壽張有堂聚故聚屬東郡須昌故屬東郡有致密城古中都有陽穀城寧陽故屬泰山九萬四千一百五十六任城本任國有桃聚亢父樊奉高有明堂武帝造博有泰山廟岱山在西北有龜山有龍鄉城梁甫侯國有菟裘聚鉅平侯國有亭禪山有陽關亭嬴有鐵山茌侯國萊蕪有原山潘水出蓋沂水出南武陽侯國有顓臾城南城故屬東海有東陽城費侯國故屬東海有祊亭有台亭牟故國十三萬五千八百九十七盧有平陰城有防門有光里有景茲山有敖山有清亭有長城至東海蛇丘有遂鄉有下讙亭有鑄鄉城成本國茌平本屬東郡剛十一昌邑刺史治有梁丘城有甲父亭東緡春秋時曰緡鉅野有大野澤高平侯國故橐章帝更名有茅鄉城湖陸故湖陵章帝更名南平陽侯國有漆亭有閭丘亭方與有武唐亭魯侯觀魚臺有泥母亭或曰古甯母瑕丘金鄉防東千五百五十四定陶本曹國古陶堯所居有三鬷亭冤句有棗城成陽有堯冢靈臺有雷澤乘氏侯國有泗水有鹿城鄉句陽有垂亭鄄城離狐故屬東郡廩丘故屬東郡有高魚城有運城單父侯國故屬山陽成武故屬山陽有郜城己氏故屬梁十六郯本國刺史治蘭陵有次室亭戚朐有鐵有伊盧鄉襄賁昌慮有藍鄉承陰平利城合城鄉祝其有羽山春秋時曰祝其夾谷地厚丘贛榆本屬琅邪建初五年復十七萬九百六十七開陽故屬東海建初五年屬東武琅邪東莞有鄆亭有邳鄉有公來山或曰古浮來西海諸莒本國故屬城陽有鐵有崢嶸谷東安故屬城陽陽都故屬城陽有牟臺臨沂故屬東海有叢亭即丘侯國故屬東海春秋曰祝丘繒侯國故屬東海有概亭姑幕彭城有鐵武原傅陽有柤水呂留梧菑丘廣戚故屬沛國戶八萬三千九百七口四十一萬百九十廣陵有東陵亭江都有江水祠高郵平安淩故屬泗水東陽故屬臨淮有長洲澤吳王濞太倉在此射陽故屬臨淮鹽瀆故屬臨淮輿侯國故屬臨淮堂邑故屬臨淮有鐵春秋時曰堂海西故屬東海下邳本屬東海葛嶧山本嶧陽山有鐵徐本國有樓亭或曰古蔞林僮侯國睢陵下相淮陰淮浦盱台高山潘旌淮陵取慮有蒲姑陂東成曲陽侯國故屬東海司吾侯國故屬東海良成故屬東海春秋時曰良夏丘故屬沛, WYG: 存之}
   - {type: variant, offset: 191, length: 981, content: 菑章帝更名故屬梁圉故屬淮陽有高陽亭扶溝故屬淮陽濮陽古昆吾國春秋時曰濮有鹹城或曰古鹹國有清丘有鉏城燕本南燕國有雍鄉有胙城古胙國有平陽亭有瓦亭有桃城白馬有韋鄉頓丘東阿有清亭東武陽濕水出范有秦亭臨邑有沛泲廟博平聊城有夷儀聚有聶戚城發干樂平侯國故清章帝更名陽平侯國有莘亭有岡成城衞公國本觀故國姚姓光武更名有河牧城有竿城穀城春秋時小穀有巂下聚十四萬八千二百七十無鹽本宿國任姓有章城東平陸六國時曰平陸有闞亭有堂陽亭富成章壽張春秋曰良漢曰壽良光武改曰壽張有堂聚故聚屬東郡須昌故屬東郡有致密城古中都有陽穀城寧陽故屬泰山九萬四千一百五十六任城本任國有桃聚亢父樊奉高有明堂武帝造博有泰山廟岱山在西北有龜山有龍鄉城梁甫侯國有菟裘聚鉅平侯國有亭禪山有陽關亭嬴有鐵山茌侯國萊蕪有原山潘水出蓋沂水出南武陽侯國有顓臾城南城故屬東海有東陽城費侯國故屬東海有祊亭有台亭牟故國十三萬五千八百九十七盧有平陰城有防門有光里有景茲山有敖山有清亭有長城至東海蛇丘有遂鄉有下讙亭有鑄鄉城成本國茌平本屬東郡剛十一昌邑刺史治有梁丘城有甲父亭東緡春秋時曰緡鉅野有大野澤高平侯國故橐章帝更名有茅鄉城湖陸故湖陵章帝更名南平陽侯國有漆亭有閭丘亭方與有武唐亭魯侯觀魚臺有泥母亭或曰古甯母瑕丘金鄉防東千五百五十四定陶本曹國古陶堯所居有三鬷亭冤句有棗城成陽有堯冢靈臺有雷澤乘氏侯國有泗水有鹿城鄉句陽有垂亭鄄城離狐故屬東郡廩丘故屬東郡有高魚城有運城單父侯國故屬山陽成武故屬山陽有郜城己氏故屬梁十六郯本國刺史治蘭陵有次室亭戚朐有鐵有伊盧鄉襄賁昌慮有藍鄉承陰平利城合城鄉祝其有羽山春秋時曰祝其夾谷地厚丘贛榆本屬琅邪建初五年復十七萬九百六十七開陽故屬東海建初五年屬東武琅邪東莞有鄆亭有邳鄉有公來山或曰古浮來西海諸莒本國故屬城陽有鐵有崢嶸谷東安故屬城陽陽都故屬城陽有牟臺臨沂故屬東海有叢亭即丘侯國故屬東海春秋曰祝丘繒侯國故屬東海有概亭姑幕彭城有鐵武原傅陽有柤水呂留梧菑丘廣戚故屬沛國戶八萬三千九百七口四十一萬百九十廣陵有東陵亭江都有江水祠高郵平安淩故屬泗水東陽故屬臨淮有長洲澤吳王濞太倉在此射陽故屬臨淮鹽瀆故屬臨淮輿侯國故屬臨淮堂邑故屬臨淮有鐵春秋時曰堂海西故屬東海下邳本屬東海葛嶧山本嶧陽山有鐵徐本國有樓亭或曰古蔞林僮侯國睢陵下相淮陰淮浦盱台高山潘旌淮陵取慮有蒲姑陂東成曲陽侯國故屬東海司吾侯國故屬東海良成故屬東海春秋時曰良夏丘故屬沛, krp: 存之}
+  - {type: substitution, offset: 191, original: 菑, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16583}}
   - {type: punctuation, offset: 192, content: ，, id: KR2a0009_ZHSJ_121-bkkpn80}
   - {type: punctuation, offset: 192, content: 〔二二〕, id: KR2a0009_ZHSJ_121-bkkpn81}
   - {type: 'tls:seg', offset: 192, content: '', id: KR2a0009_ZHSJ_121-d121p7s15}
@@ -332,6 +335,7 @@ markers:
   - {type: punctuation, offset: 326, content: 〔一六〕, id: KR2a0009_ZHSJ_121-bkkpn170}
   - {type: 'tls:seg', offset: 326, content: '', id: KR2a0009_ZHSJ_121-d121p13s2}
   - {type: punctuation, offset: 326, content: ▲, id: KR2a0009_ZHSJ_121-bkkpn171}
+  - {type: substitution, offset: 326, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 327, content: ), id: KR2a0009_ZHSJ_121-bkkpn172}
   - {type: punctuation, offset: 329, content: ．, id: KR2a0009_ZHSJ_121-bkkpn173}
   - {type: 'tls:seg', offset: 329, content: '', id: KR2a0009_ZHSJ_121-d121p13s3}
@@ -475,6 +479,7 @@ markers:
   - {type: punctuation, offset: 495, content: 〔四〕, id: KR2a0009_ZHSJ_121-bkkpn253}
   - {type: 'tls:seg', offset: 495, content: '', id: KR2a0009_ZHSJ_121-d121p17s9}
   - {type: punctuation, offset: 495, content: ▲, id: KR2a0009_ZHSJ_121-bkkpn254}
+  - {type: substitution, offset: 495, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 497, content: ), id: KR2a0009_ZHSJ_121-bkkpn255}
   - {type: punctuation, offset: 499, content: ．, id: KR2a0009_ZHSJ_121-bkkpn256}
   - {type: 'tls:seg', offset: 499, content: '', id: KR2a0009_ZHSJ_121-d121p17s10}
@@ -574,6 +579,7 @@ markers:
   - {type: punctuation, offset: 603, content: ．, id: KR2a0009_ZHSJ_121-bkkpn315}
   - {type: punctuation, offset: 603, content: 〔七〕, id: KR2a0009_ZHSJ_121-bkkpn316}
   - {type: 'tls:seg', offset: 603, content: '', id: KR2a0009_ZHSJ_121-d121p19s10}
+  - {type: substitution, offset: 605, original: 讙, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16430}}
   - {type: punctuation, offset: 607, content: ．, id: KR2a0009_ZHSJ_121-bkkpn317}
   - {type: punctuation, offset: 607, content: 〔八〕, id: KR2a0009_ZHSJ_121-bkkpn318}
   - {type: 'tls:seg', offset: 607, content: '', id: KR2a0009_ZHSJ_121-d121p19s11}
@@ -619,6 +625,7 @@ markers:
   - {type: punctuation, offset: 643, content: 〔三〕, id: KR2a0009_ZHSJ_121-bkkpn343}
   - {type: 'tls:seg', offset: 643, content: '', id: KR2a0009_ZHSJ_121-d121p21s5}
   - {type: punctuation, offset: 643, content: ▲, id: KR2a0009_ZHSJ_121-bkkpn344}
+  - {type: substitution, offset: 643, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 645, content: ), id: KR2a0009_ZHSJ_121-bkkpn345}
   - {type: punctuation, offset: 645, content: 〔四〕, id: KR2a0009_ZHSJ_121-bkkpn346}
   - {type: 'tls:seg', offset: 645, content: '', id: KR2a0009_ZHSJ_121-d121p21s6}
@@ -667,6 +674,7 @@ markers:
   - {type: 'tls:seg', offset: 695, content: '', id: KR2a0009_ZHSJ_121-d121p21s18}
   - {type: punctuation, offset: 699, content: ，, id: KR2a0009_ZHSJ_121-bkkpn375}
   - {type: 'tls:seg', offset: 699, content: '', id: KR2a0009_ZHSJ_121-d121p21s19}
+  - {type: substitution, offset: 702, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16283}}
   - {type: punctuation, offset: 704, content: ．, id: KR2a0009_ZHSJ_121-bkkpn376}
   - {type: punctuation, offset: 704, content: 〔一三〕, id: KR2a0009_ZHSJ_121-bkkpn377}
   - {type: 'tls:seg', offset: 704, content: '', id: KR2a0009_ZHSJ_121-d121p21s20}
@@ -987,6 +995,7 @@ markers:
   - {type: punctuation, offset: 987, content: ), id: KR2a0009_ZHSJ_121-bkkpn565}
   - {type: indent, offset: 987, content: 　, id: KR2a0009_ZHSJ_121-bkkind26}
   - {type: punctuation, offset: 987, content: ▲, id: KR2a0009_ZHSJ_121-bkkpn566}
+  - {type: substitution, offset: 987, original: 菑, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16583}}
   - {type: punctuation, offset: 989, content: ), id: KR2a0009_ZHSJ_121-bkkpn567}
   - {type: xml-element, offset: 989, content: '', id: KR2a0009_ZHSJ_121-bkkxmlele66}
   - {type: xml-element, offset: 989, content: '', id: KR2a0009_ZHSJ_121-bkkxmlele67}
@@ -1164,4 +1173,4 @@ markers:
   - {type: xml-element, offset: 1172, content: '', id: KR2a0009_ZHSJ_121-d121n1}
   - {type: xml-element, offset: 1172, content: '', id: KR2a0009_ZHSJ_121-d121n1_end}
   back: []
-hash: sha256:bc201ff21fc45fa51bce32721cd293816a1e823387be46d57ad1fbdcfcdc8cac
+hash: sha256:7c95225cb18e63ace4e014ed72696363087c763f3ec739d6a0e828ec7bc813b2
