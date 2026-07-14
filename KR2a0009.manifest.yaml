@@ -16,10 +16,9 @@ metadata:
   edition:
     short: bkk
 editions:
-- short: WYG
-  label: 【四庫全書・文淵閣】
-- short: krp
-- short: ZHSJ
+- {short: WYG, label: 【四庫全書・文淵閣】}
+- {short: krp}
+- {short: ZHSJ}
 assets:
   parts:
   - {seq: 1, filename: KR2a0009_001.yaml, hash: 'sha256:c14c35c3d220ee532fd379bda0de9b6a497d815a207439cdfdd93054c6265962'}
@@ -255,7 +254,7 @@ assets:
   - {seq: 100, role: markers, filename: assets/KR2a0009_100.markers.yaml, hash: 'sha256:8b5ac216a589c61ead900d7a63bc41ed60982c0cb6fb803e7109f1e5e28966a0'}
   - {seq: 101, role: markers, filename: assets/KR2a0009_101.markers.yaml, hash: 'sha256:f0a579144dd39479bfec938b95e8decccff6fdd2da91561c9495b087bd24c2ce'}
   - {seq: 102, role: markers, filename: assets/KR2a0009_102.markers.yaml, hash: 'sha256:b458554a2ae2fc45f0c50f5dba9345bd9677fb17ad365894d3611cad8dab6016'}
-  - {seq: 103, role: markers, filename: assets/KR2a0009_103.markers.yaml, hash: 'sha256:b712cd3614ebdcfd95a581080d75993a18772c36e3c7195e20ffbc86f90c263a'}
+  - {seq: 103, role: markers, filename: assets/KR2a0009_103.markers.yaml, hash: 'sha256:7ad6e64001bf8f6b938a7125415d0d48d4efef3609c33902f6f1218c7636ac11'}
   - {seq: 104, role: markers, filename: assets/KR2a0009_104.markers.yaml, hash: 'sha256:6d61796d25329366756b111a71012002792ce96bf5a22a2ce0e0ddfb0cc16dcf'}
   - {seq: 105, role: markers, filename: assets/KR2a0009_105.markers.yaml, hash: 'sha256:227877efd7e4723e9b2dc2ee7992045ae122b40ef0f6a7f72a6f88eb05e188db'}
   - {seq: 106, role: markers, filename: assets/KR2a0009_106.markers.yaml, hash: 'sha256:f243d1b6db2f4e7f53e0d7e30abc91e5df2c131cb9adb72c419dc5215146260e'}
@@ -1584,7 +1583,7 @@ table_of_contents:
   label: 後漢書志第三十
   type: section
   level: 1
-hash: sha256:ab4d8e1b99ca842b3f23f92057a08011082ef8af15fc803693def153a0013059
+hash: sha256:c66b8e7b7972661186feb3e770e22d4042c450055f6a966756ad155b57420ba1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
